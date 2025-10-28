@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README — Conexión PHP con PostgreSQL en Vagrant
 ## Juan Jose Santacruz Ferraro Las imagenes estan al final 
 ## Descripción del proyecto
@@ -144,3 +145,7 @@ GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA public TO vagrant;
 ![alt text](image-1.png)
 ![alt text](imagen.png)
 ![alt text](image-2.png)
+=======
+# TallerProvisionamiento
+Taller Provisionamiento
+>>>>>>> ce4c7479b51c2c33fae678b97c885c8abada5bf0
